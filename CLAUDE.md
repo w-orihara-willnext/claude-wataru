@@ -1,7 +1,6 @@
 # Claude Code ルール
-
 ## 作業範囲
-- 作業は `~/claude-wataru` フォルダ内のみに限定する
+- 作業は `~/Desktop/claude-wataru` フォルダ内のみに限定する
 
 ## アクセス禁止
 - `/System`, `/usr`, `/bin`, `/sbin`, `~/Library` には絶対アクセスしない

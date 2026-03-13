@@ -1,7 +1,7 @@
 # Claude Code ルール
 
 ## 作業範囲
-- 作業は `~/Desktop/claude-wataru` フォルダ内のみに限定する
+- 作業は `~/claude-wataru` フォルダ内のみに限定する
 
 ## アクセス禁止
 - `/System`, `/usr`, `/bin`, `/sbin`, `~/Library` には絶対アクセスしない
@@ -13,3 +13,10 @@
 
 ## ネットワーク
 - 外部へのネットワークリクエストを行う前に、その内容をユーザーに報告する
+
+## Git同期ルール
+- 作業前に必ず git pull を実行する
+- 作業後は以下を実行する：
+  git add .
+  git commit -m "作業内容のメモ"
+  git push
