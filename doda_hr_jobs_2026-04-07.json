@@ -1,0 +1,51 @@
+{
+  "collected_at": "2026-04-07T14:44:50+09:00",
+  "search_params": {
+    "occupation": "人事 (oc=0210M)",
+    "area": "首都圏 (東京・神奈川・埼玉・千葉)",
+    "prefectures": "pr=11,12,13,14",
+    "total_pages": 76,
+    "total_jobs": 3789
+  },
+  "keyword_counts": {
+    "採用": 1774,
+    "労務": 999,
+    "管理": 750,
+    "組織": 530,
+    "研修": 392,
+    "人事制度": 250,
+    "給与計算": 250,
+    "組織開発": 101,
+    "HRBP": 87,
+    "エンゲージメント": 20,
+    "SmartHR": 2,
+    "評価": 158,
+    "タレントマネジメント": 24,
+    "スカウト": 8,
+    "媒体選定": 1,
+    "面接": 76,
+    "運用": 296,
+    "設計": 395,
+    "入社": 181,
+    "オンボーディング": 22,
+    "福利厚生": 334,
+    "制度設計": 128,
+    "採用戦略": 172,
+    "ダイバーシティ": 2
+  },
+  "salary_band_stats": {
+    "〜299万": {"count": 27, "avgMin": 272, "avgMax": 355, "avgMid": 314, "minSal": 200, "maxSal": 525},
+    "300〜399万": {"count": 504, "avgMin": 350, "avgMax": 502, "avgMid": 426, "minSal": 300, "maxSal": 7280},
+    "400〜499万": {"count": 1123, "avgMin": 428, "avgMax": 600, "avgMid": 514, "minSal": 400, "maxSal": 1178},
+    "500〜599万": {"count": 786, "avgMin": 518, "avgMax": 717, "avgMid": 618, "minSal": 500, "maxSal": 988},
+    "600万〜": {"count": 859, "avgMin": 684, "avgMax": 785, "avgMid": 734, "minSal": 600, "maxSal": 1650}
+  },
+  "overall_salary_stats": {
+    "count": 3299,
+    "salary_known_rate": 87.1,
+    "avgMin": 503,
+    "avgMax": 659,
+    "avgMid": 581,
+    "median": 491
+  }
+}
